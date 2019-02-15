@@ -1,8 +1,9 @@
 {
   "name": "fil12/ImagesLoaderFromUrl",
   "description": "This`s a images loadef from url.",
-  "type": "project",
-  "license": "BSD-3-Clause",
+  "type": "library",
+  "homepage": "https://github.com/fil12/ImagesLoaderFromUrl",
+  "license": "MIT",
   "authors": [
     {
       "name": "Alex Filimonov",

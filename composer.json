@@ -1,8 +1,8 @@
 {
-  "name": "fil12/ImagesLoaderFromUrl",
+  "name": "fil12/images-loader-from-url",
   "description": "This`s a images loadef from url.",
   "type": "library",
-  "homepage": "https://github.com/fil12/ImagesLoaderFromUrl",
+  "homepage": "https://github.com/fil12/images-loader-from-url",
   "license": "MIT",
   "authors": [
     {
